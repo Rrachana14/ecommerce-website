@@ -2,6 +2,9 @@
 
 This is a full-stack e-commerce application built with React, Node.js, Express, and MongoDB.  
 
+## View Video
+You can view the file [here](https://drive.google.com/file/d/18Wre3kiD4k3Ad68lC617Noym1jrD8wGd/view?usp=sharing).
+
 ## Features
 - User authentication and authorization
 - Admin dashboard for product management
